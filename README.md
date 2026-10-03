@@ -4,4 +4,4 @@ I am a Mathematics Ph.D. candidate at **North Carolina State University**, advis
 - 🔬 **Research:** Combinatorial Hodge Theory, Incidence Algebras.
 - 🌐 **Website:** [nutannepal.github.io](https://nutannepal.github.io) | **Email:** [nnepal2@ncsu.edu](mailto:nnepal2@ncsu.edu)
 
-In here, I have got my PhD research projects ([Chow Rings of Matroids](https://github.com/NutanNepal/ChowringofMatroids), [Simple semi-small](https://github.com/NutanNepal/simple-semi-small)) as well as some personal projects ([App for Qual Prep](https://github.com/NutanNepal/Snail)).
+In here, I have tracked my PhD research projects ([Chow Rings of Matroids](https://github.com/NutanNepal/ChowringofMatroids), [Simple semi-small](https://github.com/NutanNepal/simple-semi-small)) as well as some personal projects ([App for Qual Prep](https://github.com/NutanNepal/Snail)).
