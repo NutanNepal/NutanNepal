@@ -27,7 +27,7 @@ My research centers on **Combinatorial Hodge Theory**, **Matroid Theory**, and *
 
 | Repository | Focus & Highlights |
 | :--- | :--- |
-| [**`indlorpoly-formalization`**](https://github.com/NutanNepal/lean-playground-indlorpoly) | Formalization of *Induced Lorentzian and Volume Polynomials* in **Lean 4**. Verifies symbol theory, multiaffine operators, and combinatorial base properties. |
+| [**`indlorpoly-formalization`**](https://github.com/NutanNepal/Indlorpoly-formalization) | Lean 4 formalization of *Induced Lorentzian and Volume Polynomials* — work in progress. The §1 matching combinatorics, the polymatroid base-polytope and direct-sum machinery, and the §2 symbol calculus are proved; Theorems 1.1 and 1.3 are still assumed, with 3 `sorry`s outstanding. |
 | [**`ChowringofMatroids`**](https://github.com/NutanNepal/ChowringofMatroids) | Research workspace for Chow rings of matroids, equivariant Chow representations, Feichtner–Yuzvinsky monomials, and inverse KL polynomials. Includes SageMath notebooks and Manim animations. |
 | [**`simple-semi-small`**](https://github.com/NutanNepal/simple-semi-small) | Investigations into semi-small decompositions and deletion recurrences for Chow polynomials, deformed Möbius algebras, and complete-graph recurrences. |
 
