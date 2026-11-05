@@ -43,7 +43,6 @@ My research centers on **Combinatorial Hodge Theory**, **Matroid Theory**, and *
 ### 🛠️ Languages & Tools
 
 **Mathematics & Computation:**  
-```markdown```
 ![SageMath](https://img.shields.io/badge/SageMath-3333FF?style=flat-square&logo=sagemath&logoColor=white)
 ![Lean 4](https://img.shields.io/badge/Lean_4-3F51B5?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
